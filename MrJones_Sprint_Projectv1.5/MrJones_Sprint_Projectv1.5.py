@@ -4,4 +4,4 @@ def multi_table(a):
 
 if __name__ == '__main__':
     a = input('Please enter a number here: ')
-    multi_table((float(a))
+    multi_table(float(a))
